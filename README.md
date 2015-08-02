@@ -12,5 +12,4 @@ in your view add this code
 	[view setCenterText:@"test"];
 	[self.view addSubview:view];
 ```
-<img src="http://i1.tietuku.com/c1e05dee478fb052.gif">
-
+![github] (http://i1.tietuku.com/ce6a13ad6700fd83.gif)
