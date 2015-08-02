@@ -1,5 +1,4 @@
-# YProgressView
-# A round progress view with animation
+#### YProgressView : A round progress view with animation
 
 in your view add this code
 ```
